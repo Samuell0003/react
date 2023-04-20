@@ -1,0 +1,32 @@
+[
+    {
+            "foto": "foto01.jpg",
+            "nome": "Ana Bruck",
+            "avaliacao1": "Estou muito feliz...",
+            "avaliacao2": "Recomendo essa corretora para todos..."
+    },
+    {
+            "foto": "foto02.jpg",
+            "nome": "Dani Shutz",
+            "avaliacao1": "Foi uma satisfação tão grande...",
+            "avaliacao2": "Adorei a minha aquisição..."
+    },
+    {
+            "foto": "foto03.jpg",
+            "nome": "Bia Wolf",
+            "avaliacao1": "nao poderia ser uma compra melhor",
+            "avaliacao2": "Recomendo essa corretora para todos..."
+    },
+    {
+        "foto": "foto04.jpg",
+        "nome": "Samuel Almeida",
+        "avaliacao1": "nao poderia ser uma compra melhor",
+        "avaliacao2": "Recomendo essa corretora para todos..."
+    },
+    {
+        "foto": "foto05.jpg",
+        "nome": "Eduardo Santana",
+        "avaliacao1": "nao poderia ser uma compra melhor",
+        "avaliacao2": "Recomendo essa corretora para todos..."
+    }
+]

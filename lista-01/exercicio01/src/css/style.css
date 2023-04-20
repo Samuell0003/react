@@ -3,7 +3,8 @@
 }
 
 body {
-    background-color: black;
+    background-color: rgb(234, 234, 234);
+
 }
 
 .centralizar {
@@ -22,7 +23,7 @@ body {
 .flex>div {
     margin: 0 50px;
     width: 250px;
-    background-color: rgb(230, 230, 230);
+    background-color: white;
     padding: 20px;
     /* padding-top: 50px; */
     
